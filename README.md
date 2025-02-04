@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy estudiante de Ingeniería de Sistemas, próximo a graduarme. Me apasiona el desarrollo front-end, pero disfruto enfrentar cualquier desafío, ya sea en el front, el back o nuevas áreas de aprendizaje. Siempre estoy buscando mejorar, aprender y aportar soluciones innovadoras. 🚀
+👋 Hello! I'm a Systems Engineering student, about to graduate. I'm passionate about front-end development, but I enjoy tackling any challenge, whether it's on the front-end, back-end, or new areas of learning. I'm always looking to improve, learn, and contribute innovative solutions. 🚀
 
 
 ## 🌐 Socials:
